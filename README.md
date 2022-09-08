@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript (ES6, TypeScript, React) and HTML5/CSS3**
 
+- 👀 I’m interested **in a junior frontend developer position**
+
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **robbegarm@gmail.com**
