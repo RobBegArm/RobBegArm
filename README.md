@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **robbegarm@gmail.com**
+- 📫 You can reach me at my e-mail: **robbegarm@gmail.com**
 
 - ⚡ Fun fact **I can speak 5 languages 😄**
 
