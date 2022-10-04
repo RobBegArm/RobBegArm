@@ -54,4 +54,4 @@
   &nbsp;
 </p>
 
-![RobBegArm's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobBegArm&theme=tokyonight&show_icons=true)
+![RobBegArm's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobBegArm&theme=tokyonight&show_icons=true&count_private=true)
