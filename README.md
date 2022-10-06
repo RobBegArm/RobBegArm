@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
-- 🌱 I’m currently learning **JavaScript (ES6, TypeScript, React)**
+- 🌱 I’m currently learning **JavaScript (ES6 and TypeScript)**
 
 - 👀 I’m interested **in a junior frontend developer position**
 
