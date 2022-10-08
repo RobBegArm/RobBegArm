@@ -30,6 +30,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> </a> 
   &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" alt="TypeScript" title="TypeScript" width="40" height="40"/> </a> 
+  &nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a> 
   &nbsp;
