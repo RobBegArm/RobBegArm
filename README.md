@@ -46,6 +46,9 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left"> 
+<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hostinger_logo.png" alt="Hostinger" title="Hostinger" width="40" height="40"/> </a>
+  &nbsp;
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
 <img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png" alt="netlify" title="Netlify" width="40" height="40"/> </a>
   &nbsp;
