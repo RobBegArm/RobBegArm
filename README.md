@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
-- 🌱 I’m currently learning **JavaScript (ES6 and TypeScript) and HTML5/CSS3**
+<h3 align="left">About me:</h3>
+<p align="left">I am passionate about programming and the web and want to start a career in web development. I have learned the necessary skills through multiple online courses, and have experience in building and deployment of real-world websites.
+</p>
 
-- 👀 I’m interested **in a junior frontend developer position**
+- 🌱 I’m currently learning **React JS and TypeScript**
+
+- 👀 I’m interested **in a junior frontend developer position** or an **internship**
 
 - 💬 Ask me about **anything**
 
@@ -29,6 +33,9 @@
   &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> </a> 
+  &nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="JavaScript" title="JavaScript" width="40" height="40"/> </a> 
   &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" alt="TypeScript" title="TypeScript" width="40" height="40"/> </a> 
