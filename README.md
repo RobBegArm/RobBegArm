@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A solar panel engineer and an aspiring frontend developer from Tallinn, Estonia</h3>
+<h3 align="center">An aspiring frontend developer from Tallinn, Estonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
