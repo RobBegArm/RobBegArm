@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> </a> 
   &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React JS" title="JavaScript" width="40" height="40"/> </a> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React JS" title="React JS" width="40" height="40"/> </a> 
   &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" alt="TypeScript" title="TypeScript" width="40" height="40"/> </a> 
