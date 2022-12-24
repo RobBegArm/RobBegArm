@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">I am passionate about programming and the web and want to start a career in web development. I have learned the necessary skills through multiple online courses, and have experience in building and deployment of real-world websites.
+<p align="left">Highly self-motivated frontend developer with experience in designing, building, and deploying real-world websites. I am very passionate about programming and the web and have learned the necessary skills through multiple online courses.
 </p>
 
 - 🌱 I’m currently learning **React JS and TypeScript**
 
-- 👀 I’m interested **in a junior frontend developer position** or an **internship**
+- 👀 I’m interested in a **junior frontend developer position**
 
 - 💬 Ask me about **anything**
 
