@@ -7,13 +7,15 @@
 <p align="left">Highly self-motivated frontend developer with experience in designing, building, and deploying real-world websites. I am very passionate about programming and the web and have learned the necessary skills through multiple online courses.
 </p>
 
-- 🌱 I’m currently learning **React JS and TypeScript**
+- 💡 I’m currently honing my skills in **React JS**
+
+- ✍️ I’m currently learning **TypeScript**
 
 - 👀 I’m interested in a **junior frontend developer position**
 
 - 💬 Ask me about **anything**
 
-- 📫 You can reach me at my e-mail: **robbegarm@gmail.com**
+- 📧 You can reach me at my e-mail: **robbegarm@gmail.com**
 
 - ⚡ Fun fact **I can speak 5 languages 😄**
 
