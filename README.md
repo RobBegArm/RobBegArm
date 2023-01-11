@@ -55,17 +55,17 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left"> 
-<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hostinger_logo.png" alt="Hostinger" title="Hostinger" width="40" height="40"/> </a>
-  &nbsp;
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-<img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png" alt="netlify" title="Netlify" width="40" height="40"/> </a>
-  &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS code" title="VS code" width="40" height="40"/> </a>
   &nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" alt="IntelIJ" title="IntelIJ" width="40" height="40"/> </a>
+  &nbsp;
+<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hostinger_logo.png" alt="Hostinger" title="Hostinger" width="40" height="40"/> </a>
+  &nbsp;
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+<img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png" alt="netlify" title="Netlify" width="40" height="40"/> </a>
   &nbsp;
 </p>
 
