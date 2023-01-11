@@ -7,7 +7,7 @@
 <p align="left">Highly self-motivated frontend developer with experience in designing, building, and deploying real-world websites. I am very passionate about programming and the web and have learned the necessary skills through multiple online courses.
 </p>
 
-- 💡 I’m currently honing my skills in **React JS**
+- 💡 I’m currently honing my **React JS** skills
 
 - ✍️ I’m currently learning **TypeScript**
 
