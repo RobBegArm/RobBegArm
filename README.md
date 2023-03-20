@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Frontend Developer from Tallinn, Estonia</h3>
+<h3 align="center">Web Developer from Tallinn, Estonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">Highly self-motivated frontend developer with experience in designing, building, and deploying real-world websites. I am very passionate about programming and the web and have learned the necessary skills through multiple online courses.
+<p align="left">Highly self-motivated web developer with experience in designing, building, and deploying real-world websites. I am very passionate about programming and the web and have learned the necessary skills through multiple online courses.
 </p>
 
 - 💡 I’m currently improving my **React JS** skills
