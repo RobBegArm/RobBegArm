@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">Highly self-motivated frontend developer with experience in designing, building, and deploying websites. I am very passionate about programming and game development.
+<p align="left">Passionate frontend game developer with experience in the iGaming industry - crafting engaging slot games. Proficient in Typescript, Javascript, and Pixi.js. A reliable team player who meets deadlines consistently. Also skilled in designing, building, and deploying websites.
 </p>
 
-- 💡 I’m currently improving my **TypeScript** skills
+- 💡 I’m currently improving my **Pixi.js** skills
 
 - 💬 Ask me about **anything**
 
@@ -37,31 +37,6 @@
   &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" alt="TypeScript" title="TypeScript" width="40" height="40"/> </a> 
-  &nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a> 
-  &nbsp;
-<a href="https://spring.io/" target="_blank" rel="noreferrer">  
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/> </a> 
-  &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">Tools:</h3>
-
-<p align="left"> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS code" title="VS code" width="40" height="40"/> </a>
-  &nbsp;
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" alt="IntelIJ" title="IntelIJ" width="40" height="40"/> </a>
-  &nbsp;
-<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hostinger_logo.png" alt="Hostinger" title="Hostinger" width="40" height="40"/> </a>
-  &nbsp;
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-<img src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png" alt="netlify" title="Netlify" width="40" height="40"/> </a>
   &nbsp;
 </p>
 
