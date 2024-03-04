@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbegarm&label=Profile%20views&color=0e75b6&style=flat" alt="robbegarm" /> </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">Passionate frontend game developer with experience in the iGaming industry - crafting engaging slot games. Proficient in Typescript, Javascript, and Pixi.js. A reliable team player who meets deadlines consistently. Also skilled in designing, building, and deploying websites.
+<p align="left">Passionate Frontend Developer with a strong proficiency in Typescript, Javascript, and React JS, coupled with extensive hands-on experience within the iGaming industry. Known for a dedicated approach to creating exceptional user interfaces and engaging user experiences. A reliable team player committed to consistently meeting deadlines and exceeding project expectations. In addition to my expertise in game development, I possess versatile skills in designing, building, and deploying websites.
 </p>
 
-- 💡 I’m currently improving my **Pixi.js** skills
+- 💡 I’m currently improving my **React.js** skills
 
 - 💬 Ask me about **anything**
 
