@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/robbegarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robbegarm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/robbegarm" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robbegarm" height="30" width="40" /></a>
+<a href="https://robbegarm.github.io/homepage/" target="blank" title="Personal Website"><img align="center" src="https://robbegarm.github.io/homepage/images/util/RB_logo.svg" alt="robbegarm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
